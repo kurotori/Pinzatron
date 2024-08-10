@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showguides="true"
      inkscape:zoom="0.70710678"
-     inkscape:cx="831.55758"
-     inkscape:cy="429.92092"
+     inkscape:cx="832.26468"
+     inkscape:cy="504.87424"
      inkscape:window-width="1366"
      inkscape:window-height="725"
      inkscape:window-x="0"
@@ -1661,5 +1661,12 @@
          id="rect100-9"
          transform="translate(-78.951416,48.775426)" />
     </g>
+    <rect
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.264583;-inkscape-stroke:hairline"
+       id="rect5"
+       width="19.40823"
+       height="17.156496"
+       x="235.11092"
+       y="58.096451" />
   </g>
 </svg>
